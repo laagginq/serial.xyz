@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "note": "Some features may not be working for all games at this time.\nOnly microsoft store client and mobile executors work right now.",
+  "status": {
+      "script": "In Development 🔴",
+      "website": "In Development 🔴"
+  },
+  "gamestatus": {
+        "dahood": "In Development 🔴",
+        "hoodmodded": "In Development 🔴",
+        "dhaimtrainer": "In Development 🔴",
+        "katanahood": "In Development 🔴",
+        "dahaimtrainer": "In Development 🔴",
+        "daehood": "In Development 🔴",
+        "dathood": "In Development 🔴",
+        "untitledhood": "In Development 🔴",
+        "delhood": "In Development 🔴",
+        "davhood": "In Development 🔴",
+        "dadownhill": "In Development 🔴"
+  }
+}
