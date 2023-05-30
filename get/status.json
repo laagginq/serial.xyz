@@ -1,21 +1,21 @@
 {
   "version": "1.0.0",
-  "note": "Is currently in development.",
+  "note": "Only works on UWP version.",
   "status": {
-      "script": "In Development 🔴",
+      "script": "Working 🟢",
       "website": "In Development 🔴"
   },
   "gamestatus": {
-        "dahood": "In Development 🔴",
-        "hoodmodded": "In Development 🔴",
-        "dhaimtrainer": "In Development 🔴",
-        "katanahood": "In Development 🔴",
-        "dahaimtrainer": "In Development 🔴",
-        "daehood": "In Development 🔴",
-        "dathood": "In Development 🔴",
-        "untitledhood": "In Development 🔴",
-        "delhood": "In Development 🔴",
-        "davhood": "In Development 🔴",
-        "dadownhill": "In Development 🔴"
+        "dahood": "Working 🟢",
+        "hoodmodded": "Working 🟢",
+        "dhaimtrainer": "Working 🟢",
+        "katanahood": "Working 🟢",
+        "dahaimtrainer": "Working 🟢",
+        "daehood": "Working 🟢",
+        "dathood": "Working 🟢",
+        "untitledhood": "Working 🟢",
+        "delhood": "Working 🟢",
+        "davhood": "Working 🟢",
+        "dadownhill": "Working 🟢"
   }
 }
