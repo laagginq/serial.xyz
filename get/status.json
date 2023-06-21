@@ -8,14 +8,14 @@
   "gamestatus": {
         "dahood": "🟢",
         "hoodmodded": "🟢",
-        "dhaimtrainer": "🟢",
-        "katanahood": "🟢",
-        "dahaimtrainer": "🟢",
-        "daehood": "🟢",
-        "dathood": "🟢",
-        "untitledhood": "🟢",
-        "delhood": "🟢",
-        "davhood": "🟢",
-        "dadownhill": "🟢"
+        "dhaimtrainer": "🔴",
+        "katanahood": "🔴",
+        "dahaimtrainer": "🔴",
+        "daehood": "🔴",
+        "dathood": "🔴",
+        "untitledhood": "🔴",
+        "delhood": "🔴",
+        "davhood": "🔴",
+        "dadownhill": "🔴"
   }
 }
